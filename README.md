@@ -1,6 +1,6 @@
 ## CFNet: Cross-scale fusion network for medical image segmentation 
 
-## Accepted at [Journal of King Saud University - Computer and Information Sciences](https://www.sciencedirect.com/science/article/pii/S131915782400212X)
+## Accepted at Journal of King Saud University - Computer and Information Sciences [Link](https://www.sciencedirect.com/science/article/pii/S131915782400212X)
 
 ### Abstract
 TLearning multi-scale feature representations is essential for medical image segmentation. Most existing frameworks
