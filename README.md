@@ -3,7 +3,7 @@
 ## Accepted at Journal of King Saud University - Computer and Information Sciences [Link](https://www.sciencedirect.com/science/article/pii/S131915782400212X)
 
 ### Abstract
-TLearning multi-scale feature representations is essential for medical image segmentation. Most existing frameworks
+Learning multi-scale feature representations is essential for medical image segmentation. Most existing frameworks
 are based on U-shape architecture in which the high-resolution representation is recovered progressively by connecting
 different levels of the decoder with the low-resolution representation from the encoder. However, intrinsic defects
 in complementary feature fusion inhibit the U-shape from aggregating efficient global and discriminative features along
