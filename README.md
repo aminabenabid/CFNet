@@ -25,8 +25,8 @@ pytorch | torchvision | matplotlib | opencv | pandas
 ---  
 ## Usage 
 ###  Download Project 
-```
-Running  git clone (https://github.com/aminabenabid/CFNet.git) 
+
+Running  git clone [(https://github.com/aminabenabid/CFNet.git)] 
 The project structure and intention are as follows : 
 ```
 VesselSeg-Pytorch			# Source code		
