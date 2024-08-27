@@ -21,16 +21,12 @@ methods on 2D medical image. It achieved 71.95%, 82.79%, and 80.79% SE for STARE
 The main package and version of the python environment are as follows
 ```
 pytorch | torchvision | matplotlib | opencv | pandas 
-```  
-The above environment is successful when running the code of the project. In addition, it is well known that pytorch has very good compatibility (version>=1.0). Thus, __I suggest you try to use the existing pytorch environment firstly.__  
-    
-The current version has problems reading the `.tif` format image in the DRIVE dataset on Windows OS. __It is recommended that you use Linux for training and testing__
-
+```      
 ---  
 ## Usage 
-### 0) Download Project 
-
-Running```git clone https://github.com/aminabenabid/CFNet.git```  
+###  Download Project 
+```
+Running  git clone (https://github.com/aminabenabid/CFNet.git) 
 The project structure and intention are as follows : 
 ```
 VesselSeg-Pytorch			# Source code		
